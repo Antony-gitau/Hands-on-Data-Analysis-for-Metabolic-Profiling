@@ -1,2 +1,3 @@
-# Hands-on-Data-Analysis-for-Metabolic-Profiling
-Documentation of my participation in this course (Hands-on Data Analysis for Metabolic Profiling) offered by Imperial College London.
+# Hands on Data Analysis for Metabolic Profiling Course
+
+Documentation of my participation in this course offered by Imperial College London.
