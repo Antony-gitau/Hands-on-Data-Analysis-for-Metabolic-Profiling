@@ -1,4 +1,4 @@
-# Hands on Data Analysis for Metabolic Profiling Course
+# [Hands on Data Analysis for Metabolic Profiling Course](https://www.imperial.ac.uk/continuing-professional-development/short-courses/medicine/biomedical/hands-on-data-analysis/)
 
 Documentation of my participation in this course offered by Imperial College London.
 
